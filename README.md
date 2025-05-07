@@ -9,30 +9,27 @@ This helped me gain insight of how to use Git Bash for making changes to a repos
 
 ## TASK 2: Database task - DynamoDB
 DynamoDB is a NoSQL database that helps in managing database not structured.So this helps in managing more data efficiently.Where as,MySQL is a SQL database that helps in managing database that is structured and present in the form of tables.Through this task, I could understand how DynamoDB table can be used to store and manage data of various types.How the data is be exploited for different purpose.Here, I created simple user login that used access key to fetch database from DynamoDB and check the password for login.
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.36%20(1).jpeg)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.37.jpeg)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.36.jpeg)
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-01%20at%2023.11.51.jpeg)
 
 
 ## TASK 3: Create an application on EC2 instance
 EC2 is Elastic Compute Cloud, through AWS services we can create instances which  could be used as virtual computers that helps in managing aplications.They can be created different zones and regions that can be accessed through SSH.Created two instances t3.micro in different availability zones.
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.38%20(1).jpeg)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.38.jpeg)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.37%20(1).jpeg)
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-07%20at%2017.42.25.jpeg)
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-07%20at%2017.41.59.jpeg)
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-07%20at%2017.42.10.jpeg)
 
 
 ## TASK 4: AWS CloudFront - Serve content from multiple S3 buckets
 AWS CloudFront is a Content Delivery Network(CDN).It helps in serving content that are in S3 buckets as objects.In this task, I created S3 bucket in which jfif files were stored.Thus,through the CloudFront Distribution, I was able to access the files through a web domain.
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.38%20(1).jpeg)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.38.jpeg)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.37%20(1).jpeg)
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-04%20at%2017.19.35.jpeg)
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-04%20at%2017.19.35%20(1).jpeg)
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-04%20at%2017.19.34.jpeg)
 
 
 ## TTASK 5: Socket.IO
 Socket.IO is a library that allows bi-directional communication in real time.It becomes a way to connect between several clients and server.Through this task,I could set up a basic chat application using Node.js and Socket.IO,helping multiple users to connect and share information.
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.38%20(1).jpeg)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.38.jpeg)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.37%20(1).jpeg)
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-07%20at%2019.40.48.jpeg)
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-07%20at%2019.40.49.jpeg)
 
 
 ## TASK 6: IaaS, PaaS and SaaS
@@ -60,10 +57,8 @@ IaaS,PaaS,and SaaS are the three cloud computing service models.They help in pro
 -Substitution Cipher:In this,each letter is replaced with another fixed letter mapping
 -SHA256:Unlike other encryption techniques that can be decrypted,this is a one way process used for passwords, making it irreversible
 Created a simple GUI where messages are encrypted and decrypted on both client and server side using AES and also hashed password using SHA256.
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.38%20(1).jpeg)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.38.jpeg)
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.37%20(1).jpeg)
-
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-01%20at%2015.19.58%20(1).jpeg)
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-01%20at%2015.19.59.jpeg)
 
 ## TASK 8: IP Addressing and Web Scraping - Job Listings Scraper
 Web Scraping is a technique that helps in process of extracting data or content from websites using various libraries of python.Through this task I was able to understand about how to scrape a website for information and save it. It was useful in understanding dynamic web scraping.
