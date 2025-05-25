@@ -71,3 +71,5 @@ Using various libraries of python such as Selenium, chromedriver and other libra
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.36%20(1).jpeg)
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.37.jpeg)
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.36.jpeg)
+
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/6aeaa565cfedfa347a32663d4bb123b4455b0e6e/osimodel.drawio.svg)
