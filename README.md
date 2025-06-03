@@ -29,26 +29,62 @@ In this task, I created S3 bucket in which jfif files were stored. Thus, through
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-04%20at%2017.19.34.jpeg)
 
 
-## TTASK 5: Socket.IO
+## TASK 5: Kali Linux
+Kali Linux is a powerful distribution that helps in penetration testing, ethical hacking, and cybersecurity research. Using Kali, penetrating open ports of virtual machine was done.We were able to search for all available ports and could penetrate through it and open a session in it. 
+Understood what Kali Linux is used for and performed a simple penetration test using Nmap.Learned how to identify and analyze open ports and services.
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-06-03%20at%2018.03.51.jpeg)
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-06-03%20at%2018.04.04.jpeg)
+
+## TASK 6: Socket.IO
 Socket.IO is a library that allows bi-directional communication in real time. It becomes a way to connect between several clients and server.
 Through this task, I could set up a basic chat application using Node.js and Socket.IO, helping multiple users to connect and share information.
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-07%20at%2019.40.48.jpeg)
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-07%20at%2019.40.49.jpeg)
 
 
-## TASK 6: IaaS, PaaS and SaaS
+## TASK 7: OSI
+OSI (Open Systems Interconnection) is a model that tells about how computers communicate over a network.
+#### Physical Layer
+Transmits raw bits by provides physical servers, fiber optics, and network cables that power virtual networks and deals with cables, electrical signals, and connectors.
+
+#### Data Link Layer
+Handles MAC addressing, error detection, frame synchronization and switching between cloud network nodes .
+
+#### Network Layer
+Manages IP addressing, logical addressing and routing by determining the best physical path for data.
+
+#### Transport Layer
+Ensures reliable (TCP) or fast (UDP) communication ensuring complete data transfer by providing error checking, flow control, and retransmission.
+
+#### Session Layer
+Maintains and manages secure and persistent sessions or connecting to a cloud database or connecting between applications.
+
+#### Presentation Layer
+Encrypts, formats data by data translation and compression and translates data between the application and network format.
+
+#### Application Layer
+Acting as interface between user and network to interact with cloud apps and services providing network services to applications.
+
+**Switching**: Process of receiving a data packet on one network port and forwarding it to another port based on its destination address.
+**Routing**: Process of selecting a path for traffic in a network, from the source device to the destination.
+**Handshakes**:  Process where two devices or systems initiate a connection and agree on how to communicate before actual data is transmitted.
+**IP Addressing**: System used to identify devices on a network which acts like its address so data knows where to go and where it came from.
+
+![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/6aeaa565cfedfa347a32663d4bb123b4455b0e6e/osimodel.drawio.svg)
+
+## TASK 8: IaaS, PaaS and SaaS
 IaaS, PaaS, and SaaS are the three cloud computing service models. They help in providing ways to manage resources based on the requirements.
-- IaaS (Infrastructure as a Service)
+### IaaS (Infrastructure as a Service)
   - It provides virtualized computing resources for accessing networking features
   - It provides highest level of flexibility and management control over resources
   - The user is responsible for deploying, maintaining, and supporting  applications
   - Whereas IaaS provider is responsible for maintaining the physical infrastructure
--PaaS (Platform as a Service)
+### PaaS (Platform as a Service)
   - It provides platform with built-in software components and tools
   - It allows to focus on the deployment and management of applications making it more efficient
   - The user is responsible for developing and managing applications and data
   - Whereas PaaS provider is responsible for maintaining the physical infrastructure, operating system, middleware, and runtime environment
-- SaaS (Software as a Service)
+### SaaS (Software as a Service)
   - It provides software applications that are ready to use and run
   - It provides access to powerful software which are complete managed by the SaaS vendors
   - The user is responsible for using the application
@@ -56,20 +92,18 @@ IaaS, PaaS, and SaaS are the three cloud computing service models. They help in 
  application, data storage, and updates
  
 
-## TASK 7: Encryption Techniques - Secure Messaging App
--Caesar Cipher: In this method, letters are shifted by a fixed number of places
--Vigenère Cipher: In this, a keyword is used to shift letters and thus more secure than Caesar
--Substitution Cipher: In this, each letter is replaced with another fixed letter mapping
--SHA256:Unlike other encryption techniques that can be decrypted, this is a one way process used for passwords, making it irreversible
+## TASK 9: Encryption Techniques - Secure Messaging App
+- Caesar Cipher: In this method, letters are shifted by a fixed number of places
+- Vigenère Cipher: In this, a keyword is used to shift letters and thus more secure than Caesar
+- Substitution Cipher: In this, each letter is replaced with another fixed letter mapping
+- SHA256:Unlike other encryption techniques that can be decrypted, this is a one way process used for passwords, making it irreversible
 Created a simple GUI where messages are encrypted and decrypted on both client and server side using AES and also hashed password using SHA256.
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-01%20at%2015.19.58%20(1).jpeg)
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-05-01%20at%2015.19.59.jpeg)
 
-## TASK 8: IP Addressing and Web Scraping - Job Listings Scraper
+## TASK 10: IP Addressing and Web Scraping - Job Listings Scraper
 Web Scraping is a technique that helps in process of extracting data or content from websites using various libraries of python. Through this task I was able to understand about how to scrape a website for information and save it. It was useful in understanding dynamic web scraping.
 Using various libraries of python such as Selenium, chromedriver and other libraries, it was possible to scrape a webpage that provides information of job list that includes title of the position, job description, location of company and the website link to the same. These were saved to a csv file.
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.36%20(1).jpeg)
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.37.jpeg)
 ![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/refs/heads/main/WhatsApp%20Image%202025-03-28%20at%2020.18.36.jpeg)
-
-![image](https://raw.githubusercontent.com/MonikaRGowda/clcylevel2/6aeaa565cfedfa347a32663d4bb123b4455b0e6e/osimodel.drawio.svg)
